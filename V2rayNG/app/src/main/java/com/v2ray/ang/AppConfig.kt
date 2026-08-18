@@ -17,7 +17,7 @@ object AppConfig {
     const val ANG_CONFIG = "ang_config"
 
     // Default subscription ID for ungrouped servers
-    const val DEFAULT_SUBSCRIPTION_ID = "__default_subscription__"
+    const val DEFAULT_SUBSCRIPTION_ID = "https://gist.githubusercontent.com/Parththipan/012e0abd019c274652c1fccba849ade0/raw/ed070a4c7dff816820f2b53298cf8e317ee1de07/vpn_config.json"
 
     /** Preferences mapped to MMKV storage. */
     const val PREF_SNIFFING_ENABLED = "pref_sniffing_enabled"
